@@ -20,7 +20,7 @@ while end_game:
         end_game=False
         value=bid.values()
         max=max(value)
-        print(f"maximum bid is {max}")
+        print(f" congratulations {nam} maximum bid is {max}")
         print(bid)
 
     elif want=="yes":
